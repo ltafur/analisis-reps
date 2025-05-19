@@ -1,0 +1,4 @@
+# Instalación Librerías 
+# SQLite
+pip install sqlite3
+
